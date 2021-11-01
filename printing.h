@@ -28,21 +28,21 @@ void printing(char letter, int line)
     alphaF(line);
     break;
 
-    //   case 'G':
-    //     alphaG(line);
-    //     break;
+  case 'G':
+    alphaG(line);
+    break;
 
-    //   case 'H':
-    //     alphaH(line);
-    //     break;
+  case 'H':
+    alphaH(line);
+    break;
 
-    //   case 'I':
-    //     alphaI(line);
-    //     break;
+  case 'I':
+    alphaI(line);
+    break;
 
-    //   case 'J':
-    //     alphaK(line);
-    //     break;
+  case 'J':
+    alphaJ(line);
+    break;
 
     //   case 'K':
     //     alphaK(line);

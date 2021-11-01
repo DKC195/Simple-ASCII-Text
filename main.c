@@ -6,7 +6,7 @@ int main()
 {
   int n;
   char letters[20];
-  printf("Enter the word (less than 20 letters:");
+  printf("Enter the word (less than 20 letters):");
   scanf("%s", letters);
   n = strlen(letters);
 
