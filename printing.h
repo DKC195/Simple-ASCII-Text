@@ -56,57 +56,57 @@ void printing(char letter, int line)
     alphaM(line);
     break;
 
-    //   case 'N':
-    //     alphaN(line);
-    //     break;
+  case 'N':
+    alphaN(line);
+    break;
 
-    //   case 'O':
-    //     alphaO(line);
-    //     break;
+  case 'O':
+    alphaO(line);
+    break;
 
-    //   case 'P':
-    //     alphaP(line);
-    //     break;
+  case 'P':
+    alphaP(line);
+    break;
 
-    //   case 'Q':
-    //     alphaQ(line);
-    //     break;
+  case 'Q':
+    alphaQ(line);
+    break;
 
-    //   case 'R':
-    //     alphaR(line);
-    //     break;
+  case 'R':
+    alphaR(line);
+    break;
 
-    //   case 'S':
-    //     alphaS(line);
-    //     break;
+  case 'S':
+    alphaS(line);
+    break;
 
-    //   case 'T':
-    //     alphaT(line);
-    //     break;
+  case 'T':
+    alphaT(line);
+    break;
 
-    //   case 'U':
-    //     alphaU(line);
-    //     break;
+  case 'U':
+    alphaU(line);
+    break;
 
-    //   case 'V':
-    //     alphaV(line);
-    //     break;
+  case 'V':
+    alphaV(line);
+    break;
 
-    //   case 'W':
-    //     alphaW(line);
-    //     break;
+  case 'W':
+    alphaW(line);
+    break;
 
-    //   case 'X':
-    //     alphaX(line);
-    //     break;
+  case 'X':
+    alphaX(line);
+    break;
 
-    //   case 'Y':
-    //     alphaY(line);
-    //     break;
+  case 'Y':
+    alphaY(line);
+    break;
 
-    //   case 'Z':
-    //     alphaZ(line);
-    //     break;
+  case 'Z':
+    alphaZ(line);
+    break;
 
   default:
     space();

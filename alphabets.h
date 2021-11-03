@@ -303,13 +303,157 @@ void alphaN(int line)
   switch (line)
   {
   case 1:
-    
     break;
   
   default:
     break;
   }
 }
+
+void alphaO(int line)
+{
+  switch (line)
+  {
+  case 1:
+    break;
+  
+  default:
+    break;
+  }
+}
+
+void alphaP(int line)
+{
+  switch (line)
+  {
+  case 1:
+    break;
+  
+  default:
+    break;
+  }
+}
+
+void alphaQ(int line)
+{
+  switch (line)
+  {
+  case 1:
+    break;
+  
+  default:
+    break;
+  }
+}
+
+void alphaR(int line)
+{
+  switch (line)
+  {
+  case 1:
+    break;
+  
+  default:
+    break;
+  }
+}
+
+void alphaS(int line)
+{
+  switch (line)
+  {
+  case 1:
+    break;
+  
+  default:
+    break;
+  }
+}
+
+void alphaT(int line)
+{
+  switch (line)
+  {
+  case 1:
+    break;
+  
+  default:
+    break;
+  }
+}
+
+void alphaU(int line)
+{
+  switch (line)
+  {
+  case 1:
+    break;
+  
+  default:
+    break;
+  }
+}
+
+void alphaV(int line)
+{
+  switch (line)
+  {
+  case 1:
+    break;
+  
+  default:
+    break;
+  }
+}
+
+void alphaW(int line)
+{
+  switch (line)
+  {
+  case 1:
+    break;
+  
+  default:
+    break;
+  }
+}
+
+void alphaX(int line)
+{
+  switch (line)
+  {
+  case 1:
+    break;
+  
+  default:
+    break;
+  }
+}
+
+void alphaY(int line)
+{
+  switch (line)
+  {
+  case 1:
+    break;
+  
+  default:
+    break;
+  }
+}
+
+void alphaZ(int line)
+{
+  switch (line)
+  {
+  case 1:
+    break;
+  
+  default:
+    break;
+  }
+}
+
 
 void space()
 {
