@@ -44,17 +44,17 @@ void printing(char letter, int line)
     alphaJ(line);
     break;
 
-    //   case 'K':
-    //     alphaK(line);
-    //     break;
+  case 'K':
+    alphaK(line);
+    break;
 
-    //   case 'L':
-    //     alphaL(line);
-    //     break;
+  case 'L':
+    alphaL(line);
+    break;
 
-    //   case 'M':
-    //     alphaM(line);
-    //     break;
+  case 'M':
+    alphaM(line);
+    break;
 
     //   case 'N':
     //     alphaN(line);

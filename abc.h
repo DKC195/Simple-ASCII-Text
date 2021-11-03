@@ -89,3 +89,48 @@ void JB9()
 {
   printf("        | ");
 }
+
+void K9B6T()
+{
+  printf(" |    /¯ ");
+}
+
+void K9B6B()
+{
+  printf(" |  /    ");
+}
+
+void K96B()
+{
+  printf(" |/      ");
+}
+
+void K912B()
+{
+  printf(" |\\      ");
+}
+
+void K9B12B()
+{
+  printf(" |  \\    ");
+}
+
+void K9B12D()
+{
+  printf(" |    \\_ ");
+}
+
+void M912B69()
+{
+  printf(" |\\    /| ");
+}
+
+void M91B12B61B9()
+{
+  printf(" | \\  / | ");
+}
+
+void M9B126B9()
+{
+  printf(" |  \\/  | ");
+}

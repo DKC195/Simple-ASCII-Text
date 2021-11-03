@@ -65,11 +65,11 @@ void alphaC(int line)
   case 3:
     C1B6B();
     break;
-  
+
   case 4:
     printf("  \\       ");
     break;
-  
+
   case 5:
     printf("   \\      ");
     break;
@@ -91,7 +91,7 @@ void alphaD(int line)
   case 2:
     D9B12();
     break;
-  
+
   case 5:
     D9B6();
     break;
@@ -118,7 +118,7 @@ void alphaE(int line)
   case 3:
     E9D();
     break;
-  
+
   case 6:
     E9D();
     break;
@@ -137,7 +137,7 @@ void alphaF(int line)
   case 4:
     E9T();
     break;
-  
+
   case 3:
     E9D();
     break;
@@ -155,7 +155,7 @@ void alphaG(int line)
   case 1:
     G2B6T12B1();
     break;
-  
+
   case 2:
     G1B6B12B();
     break;
@@ -185,7 +185,7 @@ void alphaH(int line)
   case 3:
     H9D9();
     break;
-  
+
   default:
     A9B9();
     break;
@@ -228,6 +228,85 @@ void alphaJ(int line)
 
   default:
     JB9();
+    break;
+  }
+}
+
+void alphaK(int line)
+{
+  switch (line)
+  {
+  case 1:
+    K9B6T();
+    break;
+
+  case 2:
+    K9B6B();
+    break;
+
+  case 3:
+    K96B();
+    break;
+
+  case 4:
+    K912B();
+    break;
+
+  case 5:
+    K9B12B();
+    break;
+
+  default:
+    K9B12D();
+    break;
+  }
+}
+
+void alphaL(int line)
+{
+  switch (line)
+  {
+  case 6:
+    E9D();
+    break;
+
+  default:
+    E9B();
+    break;
+  }
+}
+
+void alphaM(int line)
+{
+  switch (line)
+  {
+  case 1:
+    M912B69();
+    break;
+
+  case 2:
+    M91B12B61B9();
+    break;
+
+  case 3:
+    M9B126B9();
+    break;
+
+  default:
+    A9B9();
+    break;
+  }
+}
+
+void alphaN(int line)
+{
+  switch (line)
+  {
+  case 1:
+    
+    break;
+  
+  default:
     break;
   }
 }
