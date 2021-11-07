@@ -1,5 +1,20 @@
 #include <stdio.h>
 
+void AB612B()
+{
+  printf("    /\\    ");
+}
+
+void AB62B12B()
+{
+  printf("   /  \\   ");
+}
+
+void AB64B12B()
+{
+  printf("  /    \\  ");
+}
+
 void A9T9()
 {
   printf(" |¯¯¯¯¯¯| ");
@@ -133,4 +148,9 @@ void M91B12B61B9()
 void M9B126B9()
 {
   printf(" |  \\/  | ");
+}
+
+void N912B9()
+{
+  printf(" |\\     | ");
 }

@@ -6,15 +6,15 @@ void alphaA(int line)
   switch (line)
   {
   case 1:
-    printf("    /\\    ");
+    AB612B();
     break;
 
   case 2:
-    printf("   /  \\   ");
+    AB62B12B();
     break;
 
   case 3:
-    printf("  /    \\  ");
+    AB64B12B();
     break;
 
   case 4:
@@ -37,9 +37,6 @@ void alphaB(int line)
     break;
 
   case 3:
-    printf(" |_____/  ");
-    break;
-
   case 6:
     B9D6();
     break;
@@ -386,10 +383,12 @@ void alphaU(int line)
 {
   switch (line)
   {
-  case 1:
+  case 6:
+
     break;
   
   default:
+    A9B9();
     break;
   }
 }
@@ -447,9 +446,12 @@ void alphaZ(int line)
   switch (line)
   {
   case 1:
+    A9T9();
     break;
+
   
   default:
+    H9D9();
     break;
   }
 }
