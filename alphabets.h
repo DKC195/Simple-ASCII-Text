@@ -300,9 +300,27 @@ void alphaN(int line)
   switch (line)
   {
   case 1:
+    N912B9();
     break;
-  
+
+  case 2:
+    N91B12B49();
+    break;
+
+  case 3:
+    N92B12B39();
+    break;
+
+  case 4:
+    N93B12B29();
+    break;
+
+  case 5:
+    N94B12B19();
+    break;
+
   default:
+    N9B129();
     break;
   }
 }
@@ -312,9 +330,23 @@ void alphaO(int line)
   switch (line)
   {
   case 1:
+    O2B6T12B2();
     break;
-  
+
+  case 2:
+    O1B6B12B1();
+    break;
+
+  case 5:
+    O1B12B6B1();
+    break;
+
+  case 6:
+    O2B12D6B2();
+    break;
+
   default:
+    A9B9();
     break;
   }
 }
@@ -324,9 +356,19 @@ void alphaP(int line)
   switch (line)
   {
   case 1:
+    B9T12();
+    break;
+
+  case 2:
+    A9B9();
+    break;
+
+  case 3:
+    B9D6();
     break;
   
   default:
+    E9B();
     break;
   }
 }
@@ -348,9 +390,24 @@ void alphaR(int line)
   switch (line)
   {
   case 1:
+  case 4:
+    B9T12();
+    break;
+
+  case 2:
+    A9B9();
+    break;
+
+  case 3:
+    B9D6();
+    break;
+
+  case 5:
+    D9B12();
     break;
   
   default:
+    A9B9();
     break;
   }
 }

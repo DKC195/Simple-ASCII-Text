@@ -154,3 +154,48 @@ void N912B9()
 {
   printf(" |\\     | ");
 }
+
+void N91B12B49()
+{
+  printf(" | \\    | ");
+}
+
+void N92B12B39()
+{
+  printf(" |  \\   | ");
+}
+
+void N93B12B29()
+{
+  printf(" |   \\  | ");
+}
+
+void N94B12B19()
+{
+  printf(" |    \\ | ");
+}
+
+void N9B129()
+{
+  printf(" |     \\| ");
+}
+
+void O2B6T12B2()
+{
+  printf("   /¯¯\\   ");
+}
+
+void O1B6B12B1()
+{
+  printf("  /    \\  ");
+}
+
+void O1B12B6B1()
+{
+  printf("  \\    /  ");
+}
+
+void O2B12D6B2()
+{
+  printf("   \\__/   ");
+}
