@@ -130,17 +130,12 @@ void alphaF(int line)
 {
   switch (line)
   {
-  case 1:
-  case 4:
-    E9T();
-    break;
-
-  case 3:
-    E9D();
+  case 6:
+    E9B();
     break;
 
   default:
-    E9B();
+    alphaE(line);
     break;
   }
 }
@@ -330,19 +325,11 @@ void alphaO(int line)
   switch (line)
   {
   case 1:
-    O2B6T12B2();
-    break;
-
-  case 2:
-    O1B6B12B1();
-    break;
-
-  case 5:
-    O1B12B6B1();
+    OB6T12();
     break;
 
   case 6:
-    O2B12D6B2();
+    OB12D6();
     break;
 
   default:
@@ -378,9 +365,23 @@ void alphaQ(int line)
   switch (line)
   {
   case 1:
+    OB6T12();
     break;
-  
+
+  case 4:
+    printf(" |    \\ | ");
+    break;
+
+  case 5:
+    printf(" |     \\| ");
+    break;
+
+  case 6:
+    printf("  \\____/\\ ");
+    break;
+
   default:
+    A9B9();
     break;
   }
 }
@@ -428,10 +429,12 @@ void alphaT(int line)
 {
   switch (line)
   {
-  case 1:
+  case 6:
+    IBM9M9B();
     break;
   
   default:
+    alphaI(line);
     break;
   }
 }
@@ -441,7 +444,7 @@ void alphaU(int line)
   switch (line)
   {
   case 6:
-
+    OB12D6();
     break;
   
   default:
@@ -479,9 +482,12 @@ void alphaX(int line)
   switch (line)
   {
   case 1:
+  case 2:
+  case 3:
     break;
-  
+
   default:
+    alphaA(line);
     break;
   }
 }

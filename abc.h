@@ -180,22 +180,12 @@ void N9B129()
   printf(" |     \\| ");
 }
 
-void O2B6T12B2()
+void OB6T12()
 {
-  printf("   /¯¯\\   ");
+  printf("  /¯¯¯¯\\  ");
 }
 
-void O1B6B12B1()
+void OB12D6()
 {
-  printf("  /    \\  ");
-}
-
-void O1B12B6B1()
-{
-  printf("  \\    /  ");
-}
-
-void O2B12D6B2()
-{
-  printf("   \\__/   ");
+  printf("  \\____/  ");
 }
